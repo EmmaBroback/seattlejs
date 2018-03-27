@@ -47,6 +47,8 @@ Sponsor: CBRE and Fresh Consulting (contacts: Brittney.Johnson@cbre.com & elisha
 
 Speaker | Length | Status | CoC Verified
 --- | --- | --- | ---
+@jacobdfriedmann | 25 | confirmed | yes
+@adron | 25 | confirmed | yes
 
 ## March 8, 2018
 []()
